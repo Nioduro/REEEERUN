@@ -17,3 +17,4 @@ A mod for RE:RUN by Dani
 8. Teleport
 9. Teleport (RayCast)
 10. Revive
+11. NoClip
