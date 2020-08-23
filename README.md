@@ -13,3 +13,7 @@ A mod for RE:RUN by Dani
 4. Gun
 5. Rewind
 6. Invincibility
+7. Sword spammer
+8. Teleport
+9. Teleport (RayCast)
+10. Revive
